@@ -2,6 +2,7 @@ package location;
 
 import javax.persistence.*;
 
+@Entity
 public class City {
 
     @Id
